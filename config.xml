@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>Care24</name>
+	<displayName><![CDATA[Care24]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Module Care24 Farmalisto]]></description>
+	<author><![CDATA[Farmalisto]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
